@@ -1,6 +1,6 @@
 # Coding-Bat
 
-My solutions to all the coding problems shown at Coding Bat. While these problems are 
+My solutions to all of the coding problems shown at Coding Bat. While these problems are 
 all easy, they're great practice when trying to get more comfortable with basic java and 
 the skills needed to solve more difficult problems.
 
